@@ -1,0 +1,488 @@
+[
+  {
+    "source": "^Uye Olmadan Devam Et Butonuna Tiklanir$",
+    "steps": [
+      {
+        "name": "Uye Olmadan Devam Et Butonuna Tiklanir",
+        "aggregatedDurations": {
+          "average": 0.9056882,
+          "median": 0.9056882
+        },
+        "durations": [
+          {
+            "duration": 0.9056882,
+            "location": "webTest.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Diz Altı Corap Bolumune Girilir$",
+    "steps": [
+      {
+        "name": "Diz Altı Corap Bolumune Girilir",
+        "aggregatedDurations": {
+          "average": 1.9514203,
+          "median": 1.9514203
+        },
+        "durations": [
+          {
+            "duration": 1.9514203,
+            "location": "webTest.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Sepeti Goruntule Butonuna Tiklanir$",
+    "steps": [
+      {
+        "name": "Sepeti Goruntule Butonuna Tiklanir",
+        "aggregatedDurations": {
+          "average": 1.5161399,
+          "median": 1.5161399
+        },
+        "durations": [
+          {
+            "duration": 1.5161399,
+            "location": "webTest.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Adres Bilgilerinin Select Kisimlari tamamlanir$",
+    "steps": [
+      {
+        "name": "Adres Bilgilerinin Select Kisimlari tamamlanir",
+        "aggregatedDurations": {
+          "average": 2.9324844,
+          "median": 2.9324844
+        },
+        "durations": [
+          {
+            "duration": 2.9324844,
+            "location": "webTest.feature:22"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Kaydet Butonuna Tiklanir$",
+    "steps": [
+      {
+        "name": "Kaydet Butonuna Tiklanir",
+        "aggregatedDurations": {
+          "average": 0.1695524,
+          "median": 0.1695524
+        },
+        "durations": [
+          {
+            "duration": 0.1695524,
+            "location": "webTest.feature:24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Kaydet ve Devam Et Butonuna Tiklanir$",
+    "steps": [
+      {
+        "name": "Kaydet ve Devam Et Butonuna Tiklanir",
+        "aggregatedDurations": {
+          "average": 0.1047755,
+          "median": 0.1047755
+        },
+        "durations": [
+          {
+            "duration": 0.1047755,
+            "location": "webTest.feature:26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Garanti Pay Ile Ode Butonuna Tiklanir$",
+    "steps": [
+      {
+        "name": "Garanti Pay Ile Ode Butonuna Tiklanir",
+        "aggregatedDurations": {
+          "average": 0.1754993,
+          "median": 0.1754993
+        },
+        "durations": [
+          {
+            "duration": 0.1754993,
+            "location": "webTest.feature:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Mail Adresi Girilir ve Devam Et Butonuna Tiklanir$",
+    "steps": [
+      {
+        "name": "Mail Adresi Girilir ve Devam Et Butonuna Tiklanir",
+        "aggregatedDurations": {
+          "average": 0.7701351,
+          "median": 0.7701351
+        },
+        "durations": [
+          {
+            "duration": 0.7701351,
+            "location": "webTest.feature:16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Garanti ile Odeme Ekraninda Oldugu Verify Edilir$",
+    "steps": [
+      {
+        "name": "Garanti ile Odeme Ekraninda Oldugu Verify Edilir",
+        "aggregatedDurations": {
+          "average": 2.8085553,
+          "median": 2.8085553
+        },
+        "durations": [
+          {
+            "duration": 2.8085553,
+            "location": "webTest.feature:31"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Ikinci Bilgi\"([^\"]*)\" girilir$",
+    "steps": [
+      {
+        "name": "Ikinci Bilgi\"Orkun\" girilir",
+        "aggregatedDurations": {
+          "average": 0.1102211,
+          "median": 0.1102211
+        },
+        "durations": [
+          {
+            "duration": 0.1102211,
+            "location": "webTest.feature:19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Acilan Urun Siyah Oldugu Kontrol Edilir$",
+    "steps": [
+      {
+        "name": "Acilan Urun Siyah Oldugu Kontrol Edilir",
+        "aggregatedDurations": {
+          "average": 0.0736922,
+          "median": 0.0736922
+        },
+        "durations": [
+          {
+            "duration": 0.0736922,
+            "location": "webTest.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Web sitesine gidilidigi gorulur$",
+    "steps": [
+      {
+        "name": "Web sitesine gidilidigi gorulur",
+        "aggregatedDurations": {
+          "average": 0.0636931,
+          "median": 0.0636931
+        },
+        "durations": [
+          {
+            "duration": 0.0636931,
+            "location": "webTest.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^On Bilgilendirme Kosulunu Onaylanir$",
+    "steps": [
+      {
+        "name": "On Bilgilendirme Kosulunu Onaylanir",
+        "aggregatedDurations": {
+          "average": 0.1348898,
+          "median": 0.1348898
+        },
+        "durations": [
+          {
+            "duration": 0.1348898,
+            "location": "webTest.feature:29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Sendeo Kargo Secilir$",
+    "steps": [
+      {
+        "name": "Sendeo Kargo Secilir",
+        "aggregatedDurations": {
+          "average": 1.6862447,
+          "median": 1.6862447
+        },
+        "durations": [
+          {
+            "duration": 1.6862447,
+            "location": "webTest.feature:25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Ucuncu Bilgi\"([^\"]*)\" girilir$",
+    "steps": [
+      {
+        "name": "Ucuncu Bilgi\"Köprek\" girilir",
+        "aggregatedDurations": {
+          "average": 0.1248893,
+          "median": 0.1248893
+        },
+        "durations": [
+          {
+            "duration": 0.1248893,
+            "location": "webTest.feature:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Siyah Diz Alti Coraba Tiklanir$",
+    "steps": [
+      {
+        "name": "Siyah Diz Alti Coraba Tiklanir",
+        "aggregatedDurations": {
+          "average": 4.63422,
+          "median": 4.63422
+        },
+        "durations": [
+          {
+            "duration": 4.63422,
+            "location": "webTest.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Acilan Cookiesler kapatilir$",
+    "steps": [
+      {
+        "name": "Acilan Cookiesler kapatilir",
+        "aggregatedDurations": {
+          "average": 0.200451,
+          "median": 0.200451
+        },
+        "durations": [
+          {
+            "duration": 0.200451,
+            "location": "webTest.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Altinci Bilgi\"([^\"]*)\" girilir$",
+    "steps": [
+      {
+        "name": "Altinci Bilgi\"40036 sokak no 303\" girilir",
+        "aggregatedDurations": {
+          "average": 2.1899889,
+          "median": 2.1899889
+        },
+        "durations": [
+          {
+            "duration": 2.1899889,
+            "location": "webTest.feature:23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Yeni Adres Olustura Tiklanir$",
+    "steps": [
+      {
+        "name": "Yeni Adres Olustura Tiklanir",
+        "aggregatedDurations": {
+          "average": 3.5268415,
+          "median": 3.5268415
+        },
+        "durations": [
+          {
+            "duration": 3.5268415,
+            "location": "webTest.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Giyim ve Aksesuara Gelinir$",
+    "steps": [
+      {
+        "name": "Giyim ve Aksesuara Gelinir",
+        "aggregatedDurations": {
+          "average": 0.1896597,
+          "median": 0.1896597
+        },
+        "durations": [
+          {
+            "duration": 0.1896597,
+            "location": "webTest.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Kredi Karti Bilgileri Temsili Olarak Girilir$",
+    "steps": [
+      {
+        "name": "Kredi Karti Bilgileri Temsili Olarak Girilir",
+        "aggregatedDurations": {
+          "average": 1.3936277,
+          "median": 1.3936277
+        },
+        "durations": [
+          {
+            "duration": 1.3936277,
+            "location": "webTest.feature:27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Garanti Pay Odeme Ekranina Gidilir$",
+    "steps": [
+      {
+        "name": "Garanti Pay Odeme Ekranina Gidilir",
+        "aggregatedDurations": {
+          "average": 0.1316231,
+          "median": 0.1316231
+        },
+        "durations": [
+          {
+            "duration": 0.1316231,
+            "location": "webTest.feature:28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Websitesine Gidilir$",
+    "steps": [
+      {
+        "name": "Websitesine Gidilir",
+        "aggregatedDurations": {
+          "average": 12.0508491,
+          "median": 12.0508491
+        },
+        "durations": [
+          {
+            "duration": 12.0508491,
+            "location": "webTest.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Sepeti Onayla Butonuna Tiklanir$",
+    "steps": [
+      {
+        "name": "Sepeti Onayla Butonuna Tiklanir",
+        "aggregatedDurations": {
+          "average": 2.1588081,
+          "median": 2.1588081
+        },
+        "durations": [
+          {
+            "duration": 2.1588081,
+            "location": "webTest.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Dorduncu Bilgi\"([^\"]*)\" girilir$",
+    "steps": [
+      {
+        "name": "Dorduncu Bilgi\"5312089853\" girilir",
+        "aggregatedDurations": {
+          "average": 0.141878,
+          "median": 0.141878
+        },
+        "durations": [
+          {
+            "duration": 0.141878,
+            "location": "webTest.feature:21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Sepete Ekle Butonuna Tiklanir$",
+    "steps": [
+      {
+        "name": "Sepete Ekle Butonuna Tiklanir",
+        "aggregatedDurations": {
+          "average": 0.1201349,
+          "median": 0.1201349
+        },
+        "durations": [
+          {
+            "duration": 0.1201349,
+            "location": "webTest.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Ilk Bilgi \"([^\"]*)\" girilir$",
+    "steps": [
+      {
+        "name": "Ilk Bilgi \"Ev\" girilir",
+        "aggregatedDurations": {
+          "average": 0.123617,
+          "median": 0.123617
+        },
+        "durations": [
+          {
+            "duration": 0.123617,
+            "location": "webTest.feature:18"
+          }
+        ]
+      }
+    ]
+  }
+]

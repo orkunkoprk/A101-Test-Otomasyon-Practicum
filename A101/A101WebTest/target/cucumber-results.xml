@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="40.38958">
+<testcase classname="A101 Web Automation Test Project" name="A101 Automation Test Project" time="40.38958">
+<system-out><![CDATA[Given Websitesine Gidilir...................................................passed
+And Web sitesine gidilidigi gorulur.........................................passed
+And Acilan Cookiesler kapatilir.............................................passed
+And Giyim ve Aksesuara Gelinir..............................................passed
+And Diz Altı Corap Bolumune Girilir.........................................passed
+And Siyah Diz Alti Coraba Tiklanir..........................................passed
+And Acilan Urun Siyah Oldugu Kontrol Edilir.................................passed
+And Sepete Ekle Butonuna Tiklanir...........................................passed
+And Sepeti Goruntule Butonuna Tiklanir......................................passed
+And Sepeti Onayla Butonuna Tiklanir.........................................passed
+And Uye Olmadan Devam Et Butonuna Tiklanir..................................passed
+And Mail Adresi Girilir ve Devam Et Butonuna Tiklanir.......................passed
+And Yeni Adres Olustura Tiklanir............................................passed
+And Ilk Bilgi "Ev" girilir..................................................passed
+And Ikinci Bilgi"Orkun" girilir.............................................passed
+And Ucuncu Bilgi"Köprek" girilir............................................passed
+And Dorduncu Bilgi"5312089853" girilir......................................passed
+And Adres Bilgilerinin Select Kisimlari tamamlanir..........................passed
+And Altinci Bilgi"40036 sokak no 303" girilir...............................passed
+And Kaydet Butonuna Tiklanir................................................passed
+And Sendeo Kargo Secilir....................................................passed
+And Kaydet ve Devam Et Butonuna Tiklanir....................................passed
+And Kredi Karti Bilgileri Temsili Olarak Girilir............................passed
+And Garanti Pay Odeme Ekranina Gidilir......................................passed
+And On Bilgilendirme Kosulunu Onaylanir.....................................passed
+When Garanti Pay Ile Ode Butonuna Tiklanir..................................passed
+Then Garanti ile Odeme Ekraninda Oldugu Verify Edilir.......................passed
+]]></system-out>
+</testcase>
+</testsuite>
