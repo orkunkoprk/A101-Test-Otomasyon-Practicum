@@ -1,6 +1,6 @@
 # Projedeki İzlenen Süreç
-**Web Otomasyon Testi başarılı bir şekilde Cucumber frame ile kod kalitesi göz önünde bulundurularak yazıldı ve projedeki istenilen hedefe ulaşıldı.** <br/><br/>
-**Projenin yapısının olusturulmasi için gerekli Driver dosyasi oluşturuldu ve ChromeDriver tercih edildi, ayrica versiyon farkindan dolayi chromedriver.exe yine de paylaşıldı.** <br/><br/>
+**Web Otomasyon Testi başarılı bir şekilde Cucumber frame ile kod kalitesi göz önünde bulundurularak yazıldı ve projedeki istenilen hedeflere ulaşıldı.** <br/><br/>
+**Projenin yapısının oluşturulması için gerekli Driver dosyası oluşturuldu ve ChromeDriver tercih edildi, ayrıca version farkından dolayı chromedriver.exe yine de paylaşıldı.** <br/><br/>
 **Mobile Test başarılı bir şekilde yazıldı ve projedeki istenilen hedefe ulaşıldı.**
 
 ## UYARI!
